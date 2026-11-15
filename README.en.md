@@ -2,7 +2,7 @@
 
 中文版见 [README.md](README.md)。
 
-The Android half of [`qualia-bioauth`](https://github.com/Qualia2FA/QualiaBioAuth): it seals
+The Android half of [`qualia-bioauth`](https://github.com/QualiaApps/QualiaBioAuth): it seals
 a 32-byte key behind the device's own user authentication, using the Android Keystore and
 `BiometricPrompt`.
 

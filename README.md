@@ -2,7 +2,7 @@
 
 English version: [README.en.md](README.en.md)。
 
-[`qualia-bioauth`](https://github.com/Qualia2FA/QualiaBioAuth) 的 Android 一半：用 Android
+[`qualia-bioauth`](https://github.com/QualiaApps/QualiaBioAuth) 的 Android 一半：用 Android
 Keystore 与 `BiometricPrompt`，把一把 32 字节密钥锁在设备自身的用户认证之后。
 
 Rust crate 管 blob 格式与错误分类，这个库管平台调用；两边都不知道 Qualia2FA 的存在。

@@ -95,7 +95,7 @@ publishing {
                     "Android Keystore and BiometricPrompt half of qualia-bioauth: " +
                         "seals a 32-byte key behind the device's user authentication.",
                 )
-                url.set("https://github.com/Qualia2FA/QualiaBioAuth-Android")
+                url.set("https://github.com/QualiaApps/QualiaBioAuth-Android")
                 licenses {
                     license {
                         name.set("LGPL-3.0-or-later")
@@ -110,8 +110,8 @@ publishing {
                     }
                 }
                 scm {
-                    connection.set("scm:git:https://github.com/Qualia2FA/QualiaBioAuth-Android.git")
-                    url.set("https://github.com/Qualia2FA/QualiaBioAuth-Android")
+                    connection.set("scm:git:https://github.com/QualiaApps/QualiaBioAuth-Android.git")
+                    url.set("https://github.com/QualiaApps/QualiaBioAuth-Android")
                 }
             }
         }
